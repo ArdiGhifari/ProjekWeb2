@@ -1,5 +1,5 @@
 <?php
 
-echo "Tes";
+echo "Name";
 
 ?>
